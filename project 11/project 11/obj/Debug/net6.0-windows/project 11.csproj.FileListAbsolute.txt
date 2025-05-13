@@ -1,0 +1,18 @@
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 11\project 11\bin\Debug\net6.0-windows\project 11.exe
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 11\project 11\bin\Debug\net6.0-windows\project 11.deps.json
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 11\project 11\bin\Debug\net6.0-windows\project 11.runtimeconfig.json
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 11\project 11\bin\Debug\net6.0-windows\project 11.dll
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 11\project 11\bin\Debug\net6.0-windows\project 11.pdb
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 11\project 11\obj\Debug\net6.0-windows\project 11.csproj.AssemblyReference.cache
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 11\project 11\obj\Debug\net6.0-windows\project_11.frmAmericanToEnglish.resources
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 11\project 11\obj\Debug\net6.0-windows\project 11.csproj.GenerateResource.cache
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 11\project 11\obj\Debug\net6.0-windows\project 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 11\project 11\obj\Debug\net6.0-windows\project 11.AssemblyInfoInputs.cache
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 11\project 11\obj\Debug\net6.0-windows\project 11.AssemblyInfo.cs
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 11\project 11\obj\Debug\net6.0-windows\project 11.csproj.CoreCompileInputs.cache
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 11\project 11\obj\Debug\net6.0-windows\project 11.dll
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 11\project 11\obj\Debug\net6.0-windows\refint\project 11.dll
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 11\project 11\obj\Debug\net6.0-windows\project 11.pdb
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 11\project 11\obj\Debug\net6.0-windows\project 11.genruntimeconfig.cache
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 11\project 11\obj\Debug\net6.0-windows\ref\project 11.dll
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 11\project 11\obj\Debug\net6.0-windows\project_11.frmTestingForm.resources
