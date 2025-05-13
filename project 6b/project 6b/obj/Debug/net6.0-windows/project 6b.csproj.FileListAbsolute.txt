@@ -1,0 +1,17 @@
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 6b\project 6b\bin\Debug\net6.0-windows\project 6b.exe
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 6b\project 6b\bin\Debug\net6.0-windows\project 6b.deps.json
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 6b\project 6b\bin\Debug\net6.0-windows\project 6b.runtimeconfig.json
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 6b\project 6b\bin\Debug\net6.0-windows\project 6b.dll
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 6b\project 6b\bin\Debug\net6.0-windows\project 6b.pdb
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 6b\project 6b\obj\Debug\net6.0-windows\project 6b.csproj.AssemblyReference.cache
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 6b\project 6b\obj\Debug\net6.0-windows\project_6b.frmSportParticipation.resources
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 6b\project 6b\obj\Debug\net6.0-windows\project 6b.csproj.GenerateResource.cache
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 6b\project 6b\obj\Debug\net6.0-windows\project 6b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 6b\project 6b\obj\Debug\net6.0-windows\project 6b.AssemblyInfoInputs.cache
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 6b\project 6b\obj\Debug\net6.0-windows\project 6b.AssemblyInfo.cs
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 6b\project 6b\obj\Debug\net6.0-windows\project 6b.csproj.CoreCompileInputs.cache
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 6b\project 6b\obj\Debug\net6.0-windows\project 6b.dll
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 6b\project 6b\obj\Debug\net6.0-windows\refint\project 6b.dll
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 6b\project 6b\obj\Debug\net6.0-windows\project 6b.pdb
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 6b\project 6b\obj\Debug\net6.0-windows\project 6b.genruntimeconfig.cache
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 6b\project 6b\obj\Debug\net6.0-windows\ref\project 6b.dll
