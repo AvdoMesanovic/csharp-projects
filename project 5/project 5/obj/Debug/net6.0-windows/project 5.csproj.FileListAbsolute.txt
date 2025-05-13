@@ -1,0 +1,17 @@
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 5\project 5\bin\Debug\net6.0-windows\project 5.exe
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 5\project 5\bin\Debug\net6.0-windows\project 5.deps.json
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 5\project 5\bin\Debug\net6.0-windows\project 5.runtimeconfig.json
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 5\project 5\bin\Debug\net6.0-windows\project 5.dll
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 5\project 5\bin\Debug\net6.0-windows\project 5.pdb
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 5\project 5\obj\Debug\net6.0-windows\project 5.csproj.AssemblyReference.cache
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 5\project 5\obj\Debug\net6.0-windows\project_5.frmEmployeeEvaluation.resources
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 5\project 5\obj\Debug\net6.0-windows\project 5.csproj.GenerateResource.cache
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 5\project 5\obj\Debug\net6.0-windows\project 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 5\project 5\obj\Debug\net6.0-windows\project 5.AssemblyInfoInputs.cache
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 5\project 5\obj\Debug\net6.0-windows\project 5.AssemblyInfo.cs
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 5\project 5\obj\Debug\net6.0-windows\project 5.csproj.CoreCompileInputs.cache
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 5\project 5\obj\Debug\net6.0-windows\project 5.dll
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 5\project 5\obj\Debug\net6.0-windows\refint\project 5.dll
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 5\project 5\obj\Debug\net6.0-windows\project 5.pdb
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 5\project 5\obj\Debug\net6.0-windows\project 5.genruntimeconfig.cache
+C:\Users\avdom\OneDrive\Documents\source\repos\c#\project 5\project 5\obj\Debug\net6.0-windows\ref\project 5.dll
